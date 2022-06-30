@@ -14,7 +14,7 @@ export class WEB {
   web3?: any;
 
   freTokenContractAddress = "0xA9ef15CF0D72Bf6ae5e408967fa9A03A8e21129f";
-  freMinerContractAddress = "0xae97e0311c622BD1790f130F732D72b0fFd98889";
+  freMinerContractAddress = "0x38b95Ce5473e057859cD25140d16886b7f67bC87";
 
   bnbTokenContractAddress = "0x0000000000000000000000000000000000000002";
   usdtTokenContractAddress = "0x55d398326f99059ff775485246999027b3197955";
